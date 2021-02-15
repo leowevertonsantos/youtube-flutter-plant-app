@@ -35,7 +35,7 @@ class HeaderWithSearchBox extends StatelessWidget {
               // mainAxisAlignment: ,
               children: [
                 Text(
-                  "Hi Flutter Dev!",
+                  "Fala Dev!",
                   style: Theme.of(context).textTheme.headline5.copyWith(
                         color: Colors.white,
                         fontWeight: FontWeight.bold,
