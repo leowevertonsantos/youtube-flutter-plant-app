@@ -5,10 +5,13 @@ Criando layout de app de loja de planta com base no code challenge do youtube: h
 ## imagens do App
 
 ### Home
-![alt text](https://github.com/leowevertonsantos/youtube-flutter-plant-app/blob/main/assets/images/home.png)
-![alt text](https://github.com/leowevertonsantos/youtube-flutter-plant-app/blob/main/assets/images/home_2.png?raw=true)
-
+<p>
+  <img src="https://github.com/leowevertonsantos/youtube-flutter-plant-app/blob/main/assets/images/home.png" width="300">
+  <img src="https://github.com/leowevertonsantos/youtube-flutter-plant-app/blob/main/assets/images/home_2.png" width="300">
+</p>
+ 
 ### Detail
-![alt text](https://github.com/leowevertonsantos/youtube-flutter-plant-app/blob/main/assets/images/detail.png?raw=true)
-            
+<p>
+  <img src="https://github.com/leowevertonsantos/youtube-flutter-plant-app/blob/main/assets/images/detail.png" width="300"> 
+</p>        
 
